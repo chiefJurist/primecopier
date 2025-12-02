@@ -62,15 +62,15 @@
     <body class="bg-gray-100">
         {{-- LOADER --}}
         <div id="app-loader" class="fixed inset-0 bg-gray-300 z-50 flex items-center justify-center">
-            <img src="{{asset('img/truvo_trade.png')}}" alt="Logo" class="w-24 h-24 animate-pulse">
+            <img src="{{asset('img/primecopier.png')}}" alt="Logo" class="w-24 h-24 animate-pulse">
         </div>
 
         <div>
             {{-- Header For Screens Greater Than md --}}
             <div class="hidden md:flex px-20 welcome-header">
                 <div class="logo-container">
-                    <img src="{{ asset('img/truvo_trade.png')}}" alt="Truvo Logo" class=" w-16">
-                    <span>TruvoTrade</span>
+                    <img src="{{ asset('img/primecopier.png')}}" alt="Truvo Logo" class=" w-16">
+                    <span>Primecopier</span>
                 </div>
                 <div class="flex justify-between items-center gap-6 flex-wrap">
                     <a href="{{ route('show.login') }}">
@@ -85,8 +85,8 @@
             {{-- Header For Screens Less Than md: --}}
             <div class="md:hidden flex px-6 welcome-header">
                 <div class="logo-container">
-                    <img src="{{ asset('img/truvo_trade.png')}}" alt="Truvo Logo" class=" w-16">
-                    <span>TruvoTrade</span>
+                    <img src="{{ asset('img/primecopier.png')}}" alt="Primecopier Logo" class=" w-16">
+                    <span>Primecopier</span>
                 </div>
                 <div id="openMenu">
                     <span class="icon-[material-symbols--menu-rounded] external-icon"></span>
