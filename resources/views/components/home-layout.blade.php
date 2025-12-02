@@ -279,7 +279,7 @@
                 </div>
                 <div class="mt-10">
                     <div class="twelfth-div-par">
-                        This website can be accessed worldwide however the information on the website is related to TruvoTrade A/S and is not specific to any entity of TruvoTrade. All clients will directly engage with TruvoTrade A/S and all client agreements will be entered into with TruvoTrade A/S .
+                        This website can be accessed worldwide however the information on the website is related to Primecopier A/S and is not specific to any entity of Primecopier. All clients will directly engage with Primecopier A/S and all client agreements will be entered into with Primecopier A/S .
 
                     </div>
                     <div class="twelfth-div-par">
