@@ -2,8 +2,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="{{ asset('img/truvo_trades.png') }}" type="image/png">
-    <title>Truvo Trade</title>
+    <link rel="icon" href="{{ asset('img/primecopier.png') }}" type="image/png">
+    <title>Primecopier</title>
     @vite('resources/css/app.css')
     @vite('resources/js/app.js')
 </head>
@@ -448,8 +448,8 @@
             <span class="icon-[material-symbols--menu-rounded] text-3xl"></span>
         </div>
         <div class="trader-small-header-logo-con">
-            <img src="{{ asset('img/truvo_trade.png')}}" alt="Truvo Logo" class="w-16">
-            <span>TruvoTrade</span>
+            <img src="{{ asset('img/primecopier.png')}}" alt="Truvo Logo" class="w-16">
+            <span>Primecopier</span>
         </div>
         <div>
             <a href="{{route('trader.profile')}}">
@@ -462,8 +462,8 @@
     <div  id="mobileNav" class="trader-small-mobilenav -translate-x-full ">
         <div class="trader-menu-cancel-con">
             <div class="trader-small-header-logo-con">
-                <img src="{{ asset('img/truvo_trade.png')}}" alt="Truvo Logo" class="w-10">
-                <span>TruvoTrade</span>
+                <img src="{{ asset('img/primecopier.png')}}" alt="Truvo Logo" class="w-10">
+                <span>Primecopier</span>
             </div>
             <span id="closeMenu" class="icon-[material-symbols--cancel-outline-rounded] trader-menu-cancel"></span>
         </div>
@@ -577,8 +577,8 @@
         {{-- Navigation for Big Screens --}}
         <div  id="bigMobileNav" class="trader-big-mobile-nav w-2/12">
             <div class="trader-big-header-logo-con">
-                <img src="{{ asset('img/truvo_trade.png')}}" alt="Truvo Logo" class="w-10">
-                <span id="bigNavLogoName">TruvoTrade</span>
+                <img src="{{ asset('img/primecopier.png')}}" alt="Truvo Logo" class="w-10">
+                <span id="bigNavLogoName">Primecopier</span>
             </div>
             <div>
                 <div id="traderHomeBigHeader" class="trader-big-nav-link-header">HOME</div>
