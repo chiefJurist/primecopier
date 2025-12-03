@@ -40,7 +40,7 @@
         </div>
 
         <div class="auth-input-div">
-            <span>New to TruvoTrade? </span>
+            <span>New to Primecopier? </span>
             <a href="{{ route('show.register') }}" class="text-blue-600 font-bold">
                 <span class="">Sign up</span>
             </a>

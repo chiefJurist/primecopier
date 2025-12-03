@@ -2,8 +2,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="{{ asset('img/truvo_trades.png') }}" type="image/png">
-    <title>Truvo Trade</title>
+    <link rel="icon" href="{{ asset('img/primecopier.png') }}" type="image/png">
+    <title>Primecopier</title>
     @vite('resources/css/app.css')
     @vite('resources/js/app.js')
 </head>
@@ -21,22 +21,22 @@
 <body class="bg-white">
     {{-- LOADER --}}
     <div id="app-loader" class="fixed inset-0 bg-gray-300 z-50 flex items-center justify-center">
-        <img src="{{asset('img/truvo_trade.png')}}" alt="Logo" class="w-24 h-24 animate-pulse">
+        <img src="{{asset('img/primecopier.png')}}" alt="Logo" class="w-24 h-24 animate-pulse">
     </div>
     <div class="xl:flex justify-between">
         {{-- header for smaller screens --}}
         <div class="bg-blue-100 p-10 xl:hidden">
             <div class="auth-logo-con">
-                <img src="{{ asset('img/truvo_trade.png')}}" alt="Truvo Logo" class=" w-16">
-                <span>TruvoTrade</span>
+                <img src="{{ asset('img/primecopier.png')}}" alt="primecopier Logo" class=" w-16">
+                <span>Primecopier</span>
             </div>
         </div>
 
         {{-- header for bigger screens --}}
         <div class="bg-blue-100 p-10 hidden xl:block basis-1/2">
             <div class="auth-logo-con">
-                <img src="{{ asset('img/truvo_trade.png')}}" alt="Truvo Logo" class=" w-16">
-                <span>TruvoTrade</span>
+                <img src="{{ asset('img/primecopier.png')}}" alt="primecopier Logo" class=" w-16">
+                <span>Primecopier</span>
             </div>
             <img src="{{asset('img/auth-img1.svg')}}" alt="">
         </div>
