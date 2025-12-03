@@ -2,12 +2,12 @@
     {{-- first div --}}
     <div class="general-div-container about-first-div-container">
         <div class="md:pr-36">
-            <div class="font-semibold font-nunito text-gray-500 pb-5">ABOUT TRUVOTRADE</div>
+            <div class="font-semibold font-nunito text-gray-500 pb-5">ABOUT PRIMECOPIER</div>
             <div class="div-headings">
                 We're one of the largest stock exchange-listed FX & CFD brokers in the world
             </div>
             <div class="div-texts text-gray-500">
-                TruvoTrade is a licensed industry leader, at work to source the best products in the market for you, while also striving to increase accessibility and transparency in the trading industry.
+                Primecopier is a licensed industry leader, at work to source the best products in the market for you, while also striving to increase accessibility and transparency in the trading industry.
             </div>
         </div>
         <div class=" pt-10 md:pt-0">
@@ -40,7 +40,7 @@
                 Our Company
             </div>
             <div class="div-texts text-gray-500">
-                With almost 20 years of experience, TruvoTrade is one of the largest stock exchange-listed FX & CFD brokers in the world. We have offices in over 13 countries including UK, Poland, Germany, France and Chile.
+                With almost 20 years of experience, Primecopier is one of the largest stock exchange-listed FX & CFD brokers in the world. We have offices in over 13 countries including UK, Poland, Germany, France and Chile.
             </div>
             <a href="{{ route('show.register') }}">
                 <div class="mt-6 md:mt-12 about-third-div-btn button">Open an Account</div>
@@ -65,14 +65,14 @@
                 <div><span class="icon-[simple-line-icons--envolope-letter] text-5xl"></span></div>
                 <div class="grow">
                     <div class="about-fourth-div-card-header">Inquiry</div>
-                    <div class="about-second-div-card-text">info@truvotrade.com</div>
+                    <div class="about-second-div-card-text">info@primecopier.com</div>
                 </div>
             </div>
             <div class="about-second-div-card">
                 <div><span class="icon-[simple-line-icons--envolope] text-5xl"></span></div>
                 <div class="grow">
                     <div class="about-fourth-div-card-header">Email</div>
-                    <div class="about-second-div-card-text">support@truvotrade.com</div>
+                    <div class="about-second-div-card-text">support@primecopier.com</div>
                 </div>
             </div>
         </div>
@@ -82,7 +82,7 @@
     <div class="general-div-container bg-white">
         <div class="div-headings">Our Values</div>
         <div class="font-nunito text-gray-400 py-5 max-w-3xl">
-            TruvoTrade strives to provide the best possible trading experience to our clients, and our core values are tightly aligned with that vision.
+            Primecopier strives to provide the best possible trading experience to our clients, and our core values are tightly aligned with that vision.
         </div>
     </div>
 
@@ -110,7 +110,7 @@
                 <div class="border-b border-gray-600">
                     <div class="text-2xl md:text-4xl font-bold text-gray-900 py-8">Trusted For More Than 7 Years</div>
                     <div class="text-gray-400 font-nunito text-sm md:text-base">
-                        TruvoTrade is an online Forex and cryptocurrency STP broker providing CFD trading on hundreds of assets and optimal trading conditions within the award-winning MT4 platform. TruvoTrade offers deep liquidity, generous leverage up to 1:500, and some of the best spreads in the industry. As part of our commitment to our client’s satisfaction, we offer 24/7 live customer service, charge no deposit or withdrawal fees, and process withdrawals within 30-minutes or less. We feel that these, along with many other advantages, help to set us apart from the rest.
+                        Primecopier is an online Forex and cryptocurrency STP broker providing CFD trading on hundreds of assets and optimal trading conditions within the award-winning MT4 platform. Primecopier offers deep liquidity, generous leverage up to 1:500, and some of the best spreads in the industry. As part of our commitment to our client’s satisfaction, we offer 24/7 live customer service, charge no deposit or withdrawal fees, and process withdrawals within 30-minutes or less. We feel that these, along with many other advantages, help to set us apart from the rest.
                     </div>
                     <div class="text-gray-700 text-2xl font-nunito py-8">Multi-award winner</div>
                 </div>
