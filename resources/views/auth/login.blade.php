@@ -2,6 +2,23 @@
     <form action="{{route('login')}}" method="POST">
         @csrf
 
+        <!-- Display validation or session errors -->
+        @if ($errors->any())
+            <div class="text-red-500">
+                @foreach ($errors->all() as $error)
+                    <p>{{ $error }}</p>
+                @endforeach
+            </div>
+        @endif
+
+        @if (session('success'))
+            <p>{{ session('success') }}</p>
+        @endif
+
+        @if (session('status'))
+            <p>{{ session('status') }}</p>
+        @endif
+
         <div class="auth-header pt-20">Login into Account</div>
         <div>Sign in using your email and password.</div>
 
@@ -45,23 +62,5 @@
                 <span class="">Sign up</span>
             </a>
         </div>
-
-
-        <!-- Display validation or session errors -->
-        @if ($errors->any())
-            <div>
-                @foreach ($errors->all() as $error)
-                    <p>{{ $error }}</p>
-                @endforeach
-            </div>
-        @endif
-
-        @if (session('success'))
-            <p>{{ session('success') }}</p>
-        @endif
-
-        @if (session('status'))
-            <p>{{ session('status') }}</p>
-        @endif
     </form>
 </x-auth-layout>
