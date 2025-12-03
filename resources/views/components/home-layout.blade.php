@@ -69,7 +69,7 @@
             {{-- Header For Screens Greater Than md --}}
             <div class="hidden md:flex px-20 welcome-header">
                 <div class="logo-container">
-                    <img src="{{ asset('img/primecopier.png')}}" alt="Truvo Logo" class=" w-16">
+                    <img src="{{ asset('img/primecopier.png')}}" alt="Primecopier Logo" class=" w-16">
                     <span>Primecopier</span>
                 </div>
                 <div class="flex justify-between items-center gap-6 flex-wrap">

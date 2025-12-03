@@ -44,7 +44,7 @@
                         <span class="icon-[tabler--link]"></span>
                     </span>
                     <span id="referral-link" class="referral-second-div-wrap-four">
-                        https://truvotrade.com/user/register?ref=Conor
+                        https://primecopier.com/user/register?ref=Conor
                     </span>
                 </div>
                 <div onclick="copyReferralLink()" class="referral-second-div-wrap-five button">

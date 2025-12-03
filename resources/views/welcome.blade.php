@@ -159,7 +159,7 @@
             <div class="py-6">
                 <div class="sixth-div-icon-div"><span class="icon-[uil--shield-check] sixth-div-icon"></span></div>
                 <div class="sixth-div-mini-header">Safe & Secure</div>
-                <div class="sixth-div-mini-text">TruvoTrade is regulated by the world's biggest supervision authorities, including the Financial Conduct Authority.</div>
+                <div class="sixth-div-mini-text">Primecopier is regulated by the world's biggest supervision authorities, including the Financial Conduct Authority.</div>
             </div>
             <div class="py-6">
                 <div class="sixth-div-icon-div"><span class="icon-[uil--book-open] sixth-div-icon"></span></div>
@@ -174,7 +174,7 @@
             <div class="py-6">
                 <div class="sixth-div-icon-div"><span class="icon-[hugeicons--message-user-01] sixth-div-icon"></span></div>
                 <div class="sixth-div-mini-header">495,000+ customers</div>
-                <div class="sixth-div-mini-text">With years of activity in the financial markets, TruvoTrade has gained thousands of customers.</div>
+                <div class="sixth-div-mini-text">With years of activity in the financial markets, Primecopier has gained thousands of customers.</div>
             </div>
             <div class="py-6">
                 <div class="sixth-div-icon-div"><span class="icon-[hugeicons--user-star-02] sixth-div-icon"></span></div>

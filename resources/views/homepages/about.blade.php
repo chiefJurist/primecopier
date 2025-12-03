@@ -91,7 +91,7 @@
         <div>
             <div class="about-sixth-div-header">Our Technology</div>
             <div class="about-sixth-div-body">
-                Nowadays, technology is one of the most important elements of investing and finance. We know that, that's why we constantly improve our trading application in accordance with the latest trends and solutions. Our ambition is to make TruvoTrade one of the most reliable and functional trading apps on the market.
+                Nowadays, technology is one of the most important elements of investing and finance. We know that, that's why we constantly improve our trading application in accordance with the latest trends and solutions. Our ambition is to make Primecopier one of the most reliable and functional trading apps on the market.
             </div>
         </div>
         <div>
