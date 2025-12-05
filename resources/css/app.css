@@ -1024,7 +1024,7 @@ td{
   @apply bg-white border border-gray-100 rounded-lg shadow-lg;
 }
 .plans-second-div-wrap-five{
-  @apply bg-gray-100 text-center text-gray-600 font-extrabold text-xl rounded-t-lg p-4;
+  @apply bg-gray-100 text-center text-gray-600 font-bold text-lg rounded-t-lg p-4 flex justify-start items-center gap-3;
 }
 .plans-second-div-wrap-six{
   @apply py-8 px-10;
@@ -1033,7 +1033,7 @@ td{
   @apply flex items-center justify-between;
 }
 .plans-second-div-wrap-eight{
-  @apply text-3xl font-bold;
+  @apply text-2xl font-bold text-blue-500;
 }
 .plans-second-div-wrap-nine{
   @apply text-gray-500 font-semibold;

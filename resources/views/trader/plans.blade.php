@@ -3,11 +3,11 @@
         {{-- first div --}}
         <div class="profile-first-div-con">
             <div class="profile-first-div-wrap-one">
-                <div class="profile-first-div-wrap-two">Investment</div>
+                <div class="profile-first-div-wrap-two">Copy Traders</div>
                 <div class="profile-first-div-wrap-three">
                     <span>Dashboard</span>
                     <span class="icon-[ph--dot] profile-first-div-wrap-four"></span>
-                    <span>Investment</span>
+                    <span>Copy Trade</span>
                 </div>
             </div>
             <div class="profile-first-div-wrap-five">
@@ -17,21 +17,24 @@
 
         {{-- second div --}}
         <div class="plans-second-div-con">
-            <div class="plans-second-div-wrap-one">Investment Plans</div>
+            <div class="plans-second-div-wrap-one">Copy Traders</div>
 
             <div class="plans-second-div-wrap-two">
-                Here is our several investment plans. You can invest daily, weekly or monthly and get higher returns in your investment.
+                Take complete control of your investment portfolio with ease by seamlessly copying the real-time trades and proven strategies of top-performing expert traders, allowing you to grow your wealth effortlessly while learning from the best in the industry.
             </div>
 
             {{--plan one --}}
             <div class="plans-second-div-wrap-three">
                 <div class="plans-second-div-wrap-four">
-                    <div class="plans-second-div-wrap-five">STARTER PACK</div>
+                    <div class="plans-second-div-wrap-five">
+                        <img src="img/trader-1.jpg" alt="trader-img" class="rounded-full w-14">
+                        <span>GNOTZ</span>
+                    </div>
                     <div class="plans-second-div-wrap-six">
                         <div class="plans-second-div-wrap-seven">
                             <div>
                                 <div class="plans-second-div-wrap-eight">45%</div>
-                                <div class="plans-second-div-wrap-nine">Interest</div>
+                                <div class="plans-second-div-wrap-nine">Profit Rate</div>
                             </div>
                             <div>
                                 <div class="plans-second-div-wrap-eight">28</div>
@@ -57,7 +60,7 @@
                         </div>
                         <div class="plans-second-div-wrap-twelve">
                             <div class="plans-second-div-wrap-thirteen button" onclick="togglePlanModalOne()"> 
-                                <span>Invest Now</span>
+                                <span>Copy Now</span>
                                 <span class="icon-[tabler--building-bank] plans-second-div-wrap-fourteen"></span>
                             </div>
                         </div>
@@ -66,12 +69,15 @@
 
                 {{--plan two --}}
                 <div class="plans-second-div-wrap-four">
-                    <div class="plans-second-div-wrap-five">STANDARD PACK PLAN</div>
+                    <div class="plans-second-div-wrap-five">
+                        <img src="img/trader-2.jpg" alt="trader-img" class="rounded-full w-14">
+                        <span>Trading Trend</span>
+                    </div>
                     <div class="plans-second-div-wrap-six">
                         <div class="plans-second-div-wrap-seven">
                             <div>
                                 <div class="plans-second-div-wrap-eight">55%</div>
-                                <div class="plans-second-div-wrap-nine">Interest</div>
+                                <div class="plans-second-div-wrap-nine">Profit Rate</div>
                             </div>
                             <div>
                                 <div class="plans-second-div-wrap-eight">28</div>
@@ -97,7 +103,7 @@
                         </div>
                         <div class="plans-second-div-wrap-twelve">
                             <div class="plans-second-div-wrap-thirteen button" onclick="togglePlanModalTwo()"> 
-                                <span>Invest Now</span>
+                                <span>Copy Now</span>
                                 <span class="icon-[tabler--building-bank] plans-second-div-wrap-fourteen"></span>
                             </div>
                         </div>
@@ -106,12 +112,15 @@
 
                 {{--plan three --}}
                 <div class="plans-second-div-wrap-four">
-                    <div class="plans-second-div-wrap-five">DIAMOND PACK PLAN</div>
+                    <div class="plans-second-div-wrap-five">
+                        <img src="img/trader-3.jpg" alt="trader-img" class="rounded-full w-14">
+                        <span>Paradise phys</span>
+                    </div>
                     <div class="plans-second-div-wrap-six">
                         <div class="plans-second-div-wrap-seven">
                             <div>
                                 <div class="plans-second-div-wrap-eight">65%</div>
-                                <div class="plans-second-div-wrap-nine">Interest</div>
+                                <div class="plans-second-div-wrap-nine">Profit Rate</div>
                             </div>
                             <div>
                                 <div class="plans-second-div-wrap-eight">28</div>
@@ -137,7 +146,7 @@
                         </div>
                         <div class="plans-second-div-wrap-twelve">
                             <div class="plans-second-div-wrap-thirteen button" onclick="togglePlanModalThree()"> 
-                                <span>Invest Now</span>
+                                <span>Copy Now</span>
                                 <span class="icon-[tabler--building-bank] plans-second-div-wrap-fourteen"></span>
                             </div>
                         </div>
@@ -146,12 +155,15 @@
 
                 {{--plan four --}}
                 <div class="plans-second-div-wrap-four">
-                    <div class="plans-second-div-wrap-five">GOLD PACK PLAN</div>
+                    <div class="plans-second-div-wrap-five">
+                        <img src="img/trader-4.jpg" alt="trader-img" class="rounded-full w-14">
+                        <span>Kostak Alavruzos</span>
+                    </div>
                     <div class="plans-second-div-wrap-six">
                         <div class="plans-second-div-wrap-seven">
                             <div>
                                 <div class="plans-second-div-wrap-eight">75%</div>
-                                <div class="plans-second-div-wrap-nine">Interest</div>
+                                <div class="plans-second-div-wrap-nine">Profit Rate</div>
                             </div>
                             <div>
                                 <div class="plans-second-div-wrap-eight">38</div>
@@ -177,7 +189,7 @@
                         </div>
                         <div class="plans-second-div-wrap-twelve">
                             <div class="plans-second-div-wrap-thirteen button" onclick="togglePlanModalFour()"> 
-                                <span>Invest Now</span>
+                                <span>Copy Now</span>
                                 <span class="icon-[tabler--building-bank] plans-second-div-wrap-fourteen"></span>
                             </div>
                         </div>
@@ -186,7 +198,10 @@
 
                 {{--plan five --}}
                 <div class="plans-second-div-wrap-four">
-                    <div class="plans-second-div-wrap-five">PRE STARTER</div>
+                    <div class="plans-second-div-wrap-five">
+                        <img src="img/trader-5.jpg" alt="trader-img" class="rounded-full w-14">
+                        <span>Stanfx official</span>
+                    </div>
                     <div class="plans-second-div-wrap-six">
                         <div class="plans-second-div-wrap-seven">
                             <div>
@@ -217,7 +232,7 @@
                         </div>
                         <div class="plans-second-div-wrap-twelve">
                             <div class="plans-second-div-wrap-thirteen button" onclick="togglePlanModalFive()"> 
-                                <span>Invest Now</span>
+                                <span>Copy Now</span>
                                 <span class="icon-[tabler--building-bank] plans-second-div-wrap-fourteen"></span>
                             </div>
                         </div>
@@ -226,12 +241,15 @@
 
                 {{--plan six --}}
                 <div class="plans-second-div-wrap-four">
-                    <div class="plans-second-div-wrap-five">BITCOIN LIVE STAKING</div>
+                    <div class="plans-second-div-wrap-five">
+                        <img src="img/trader-6.jpg" alt="trader-img" class="rounded-full w-14">
+                        <span>Chad Christian</span>
+                    </div>
                     <div class="plans-second-div-wrap-six">
                         <div class="plans-second-div-wrap-seven">
                             <div>
                                 <div class="plans-second-div-wrap-eight">85%</div>
-                                <div class="plans-second-div-wrap-nine">Interest</div>
+                                <div class="plans-second-div-wrap-nine">Profit Rate</div>
                             </div>
                             <div>
                                 <div class="plans-second-div-wrap-eight">64</div>
@@ -257,7 +275,7 @@
                         </div>
                         <div class="plans-second-div-wrap-twelve">
                             <div class="plans-second-div-wrap-thirteen button" onclick="togglePlanModalSix()"> 
-                                <span>Invest Now</span>
+                                <span>Copy Now</span>
                                 <span class="icon-[tabler--building-bank] plans-second-div-wrap-fourteen"></span>
                             </div>
                         </div>
@@ -266,12 +284,15 @@
 
                 {{--plan seven--}}
                 <div class="plans-second-div-wrap-four">
-                    <div class="plans-second-div-wrap-five">PATTERN DAY TRADER (PTD)</div>
+                    <div class="plans-second-div-wrap-five">
+                        <img src="img/trader-7.jpg" alt="trader-img" class="rounded-full w-14">
+                        <span>Damiano L</span>
+                    </div>
                     <div class="plans-second-div-wrap-six">
                         <div class="plans-second-div-wrap-seven">
                             <div>
                                 <div class="plans-second-div-wrap-eight">65%</div>
-                                <div class="plans-second-div-wrap-nine">Interest</div>
+                                <div class="plans-second-div-wrap-nine">Profit Rate</div>
                             </div>
                             <div>
                                 <div class="plans-second-div-wrap-eight">28</div>
@@ -297,7 +318,7 @@
                         </div>
                         <div class="plans-second-div-wrap-twelve">
                             <div class="plans-second-div-wrap-thirteen button" onclick="togglePlanModalSeven()"> 
-                                <span>Invest Now</span>
+                                <span>Copy Now</span>
                                 <span class="icon-[tabler--building-bank] plans-second-div-wrap-fourteen"></span>
                             </div>
                         </div>
@@ -306,12 +327,15 @@
 
                 {{--plan eight--}}
                 <div class="plans-second-div-wrap-four">
-                    <div class="plans-second-div-wrap-five">BITCOIN LIVE STAKING (PREMIUM)</div>
+                    <div class="plans-second-div-wrap-five">
+                        <img src="img/trader-8.jpg" alt="trader-img" class="rounded-full w-14">
+                        <span>Vulture trades</span>
+                    </div>
                     <div class="plans-second-div-wrap-six">
                         <div class="plans-second-div-wrap-seven">
                             <div>
                                 <div class="plans-second-div-wrap-eight">85%</div>
-                                <div class="plans-second-div-wrap-nine">Interest</div>
+                                <div class="plans-second-div-wrap-nine">Profit Rate</div>
                             </div>
                             <div>
                                 <div class="plans-second-div-wrap-eight">56</div>
@@ -337,7 +361,7 @@
                         </div>
                         <div class="plans-second-div-wrap-twelve">
                             <div class="plans-second-div-wrap-thirteen button" onclick="togglePlanModalEight()"> 
-                                <span>Invest Now</span>
+                                <span>Copy Now</span>
                                 <span class="icon-[tabler--building-bank] plans-second-div-wrap-fourteen"></span>
                             </div>
                         </div>
