@@ -18,14 +18,14 @@ class TokenController extends Controller
         $cost = $request->get('cost');
         
         $addresses = [
-            'BITCOIN' => 'bc1qq4hm9ppkxzsle6gjcsgvvuu2xnp27ww0jxzuwx',
-            'ETHEREUM' => '0xb94936c4a73db6c75cf2db68bd2a70885eac469c',
-            'SOLANA' => '8NKjAiyfRvsewGuKdt6foruAgd2SeCRy8bC9zBqy1Zuo',
-            'USDT(BEP20)' => '0xb94936c4a73db6c75cf2db68bd2a70885eac469c',
-            'USDT(TRX10)' => 'TZGYz3Cz25oAoAaJyhfSXjSDc9SH5u9TBM',
-            'USDC(BEP20)' => '0xb94936c4a73db6c75cf2db68bd2a70885eac469c',
-            'BNB(BEP20)' => '0xb94936c4a73db6c75cf2db68bd2a70885eac469c',
-            'TRON(TRX)' => 'TZGYz3Cz25oAoAaJyhfSXjSDc9SH5u9TBM',
+            'BITCOIN' => 'bc1qhnrkek9qpwd8k6zgyrq5p0ukqnxyryz0a9fpen',
+            'ETHEREUM' => '0xB82Ac258130b97AF15FDf512769a193Cbd502C97',
+            'SOLANA' => 'EFySckjHjETQLpaLSA1oGhmkNxKexDmMM8PgjGa29RnY',
+            'USDT(BEP20)' => '0xB82Ac258130b97AF15FDf512769a193Cbd502C97',
+            'USDT(TRX10)' => 'TVhCk4WQs6ooABzgSwASRtvKKisaHwNtMg',
+            'USDC(BEP20)' => '0xB82Ac258130b97AF15FDf512769a193Cbd502C97',
+            'BNB(BEP20)' => '0xB82Ac258130b97AF15FDf512769a193Cbd502C97',
+            'TRON(TRX)' => 'TVhCk4WQs6ooABzgSwASRtvKKisaHwNtMg',
         ];
 
         $depositAddress = $addresses[$blockchain] ?? null;
